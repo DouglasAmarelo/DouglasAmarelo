@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Douglas and I'm a Front-end developer since 2010.
+
+- 🔭 I’m currently working on [@Guiabolso](https://github.com/GuiaBolso).
+- 🌱 I’m currently learning React, TypeScript, JavaScript and Front-end in general. 
+- 📫 How to reach me: [https://douglasamarelo.com/](https://douglasamarelo.com/)
+- ⚡ Fun fact: I would like to speak 5 languages or more, but I'm still learning my native language.
+
 <!--
 **DouglasAmarelo/DouglasAmarelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
