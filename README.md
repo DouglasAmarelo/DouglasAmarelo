@@ -27,6 +27,25 @@ My name is Douglas and I'm a Front-end developer since 2010.
 	</a>
 </p>
 
+#### Some (random and unorganized) links you can check:
+- [Rock Paper Scissorss game](https://game-rockpaperscissorss.netlify.app/)
+- [Snakegame](https://douglasamarelo-snakegame.netlify.app/)
+- [Pokédex](https://douglasamarelo-pokedex.vercel.app/)
+- [Filtro de cidades](https://douglasamarelo-filtro-em-js.netlify.app/)
+- [Tailwind CSS - Estudos](https://douglasamarelo-learning-tailwind.vercel.app/)
+- [Construtor de URL's](https://url-builder.netlify.app/)
+- [To do List](https://douglasamarelo-todo-list.netlify.app/)
+- [Joke Norris](https://douglas-lopes-joke-norris.netlify.app/)
+- [Equipe de plantão Guiabolso](https://gbconnect-alertas.netlify.app/)
+- [Comparação de repossitórios do Github](https://comparegithubrepositories.netlify.app/)
+- [Exibição de repositórios do GitHub](https://list-github-repositories.netlify.app/)
+- [Blog modelo](https://douglasamarelo-gatsbyblog.netlify.app/)
+- [Landing Page modelo](https://douglasamarelo-react-avancado.netlify.app/)
+- [Projeto Udacity - Maps](https://douglas-lopes-udacity-neighborhood-map-react.netlify.app/)
+- [Bitcoin](https://bitcoin-f11yk67j7-douglasamarelo.vercel.app/)
+
+
+
 <!--
 **DouglasAmarelo/DouglasAmarelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
