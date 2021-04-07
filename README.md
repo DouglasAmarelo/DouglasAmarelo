@@ -2,10 +2,13 @@
 
 My name is Douglas and I'm a Front-end developer since 2010.
 
-- 🔭  &nbsp;&nbsp; I’m currently working on [@Guiabolso](https://github.com/GuiaBolso).
-- 🌱  &nbsp;&nbsp; I’m currently learning React, TypeScript, JavaScript, Next.js, Strapi and Front-end in general. 
-- 📫  &nbsp;&nbsp; How to reach me: [https://douglasamarelo.com/](https://douglasamarelo.com/)
-- ⚡   &nbsp;&nbsp; Fun fact: I would like to speak 5 languages or more, but I'm still learning my native language.
+- :office: &nbsp;&nbsp; I’m currently working on [@Guiabolso](https://github.com/GuiaBolso) as a Front-end Developer.
+- :computer: &nbsp;&nbsp; I’m currently working with HTML, CSS, Javascript, TypeScript, React and Styled Components.
+- :books: &nbsp;&nbsp; I’m currently learning Jest, Testing Library, Next.js, some Front-end stuff in general and a little of Python (just for fun).
+- :mailbox_with_mail: &nbsp;&nbsp; How to reach me: [https://douglasamarelo.com/](https://douglasamarelo.com/)
+- :zap: &nbsp;&nbsp; Fun fact: I would like to speak 5 languages or more, but I'm still learning my native language (Portuguese).
+
+
 
 
 #### Other places you can find me:
