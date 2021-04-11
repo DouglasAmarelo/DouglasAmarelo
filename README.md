@@ -33,8 +33,6 @@ My name is Douglas and I'm a Front-end developer.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p>&nbsp;</p>
-
 #### Some (random and unorganized) links you can check:
 
 - [Rock Paper Scissorss game](https://game-rockpaperscissorss.netlify.app/)
