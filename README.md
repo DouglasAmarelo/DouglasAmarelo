@@ -23,6 +23,10 @@ My name is Douglas and I'm a Front-end developer.
 		<img alt="Douglas Amarelo Lopes - Twitter" src="https://user-images.githubusercontent.com/3269950/87224359-fac66380-c35a-11ea-8a66-d088205525f4.png" height="25" />
 	</a>
 	&nbsp; &nbsp;
+	<a href="https://www.instagram.com/douglasamarelo_dev" title="Douglas Amarelo Lopes - Instagram" target="_blank">
+		<img alt="Douglas Amarelo Lopes - Instagram" src="https://user-images.githubusercontent.com/3269950/114305746-e3660380-9aaf-11eb-8f33-0a8e5ffa80dd.png" height="25" />
+	</a>
+	&nbsp; &nbsp;
 	<a href="https://medium.com/@DouglasAmarelo" title="Douglas Amarelo Lopes - Medium" target="_blank">
 		<img alt="Douglas Amarelo Lopes - Medium" src="https://user-images.githubusercontent.com/3269950/87224334-e8e4c080-c35a-11ea-8ab2-355af0870a72.png" height="25" />
 	</a>
