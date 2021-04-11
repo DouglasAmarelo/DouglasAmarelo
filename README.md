@@ -2,8 +2,8 @@
 
 My name is Douglas and I'm a Front-end developer.
 
-- :office: &nbsp;&nbsp; I work for [@Guiabolso](https://github.com/GuiaBolso) as a Front-end Developer.
-- :computer: &nbsp;&nbsp; I’m currently working with HTML, CSS, Javascript, TypeScript, React and Styled Components.
+- :office: &nbsp;&nbsp; I'am a Front-end Developer at [@Guiabolso](https://github.com/GuiaBolso).
+- :computer: &nbsp;&nbsp; I’m working mostly with HTML, CSS, Javascript, TypeScript, React and Styled Components.
 - :books: &nbsp;&nbsp; I’m currently learning Jest, Testing Library, Next.js, some random front-end stuff and a little of Python (just for fun).
 - :mailbox_with_mail: &nbsp;&nbsp; How to reach me: [https://douglasamarelo.com/](https://douglasamarelo.com/)
 - :zap: &nbsp;&nbsp; Fun fact: I would like to speak 5 languages or more, but I'm still learning my native language (Portuguese).
@@ -28,9 +28,14 @@ My name is Douglas and I'm a Front-end developer.
 	</a>
 </p>
 
+#### This week I spent my time on
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DouglasAmarelo&hide_title=true&hide_border=true&langs_count=5)
+
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Pomodoro](https://dev.to/douglasamarelo/pomodoro-4i9i)
 - [Aprendendo a aprender](https://dev.to/douglasamarelo/aprendendo-a-aprender-2en8)
 - [Como o COVID-19 alterou a sua forma de trabalho?](https://dev.to/douglasamarelo/como-o-covid-19-alterou-a-sua-forma-de-trabalho-4foj)
