@@ -13,4 +13,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG-POST-LIST
+          max_post_count: 8
           feed_list: 'https://dev.to/feed/douglasamarelo'
