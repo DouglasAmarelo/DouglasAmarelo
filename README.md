@@ -31,6 +31,11 @@ My name is Douglas and I'm a Front-end developer.
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pomodoro](https://dev.to/douglasamarelo/pomodoro-4i9i)
+- [Aprendendo a aprender](https://dev.to/douglasamarelo/aprendendo-a-aprender-2en8)
+- [Como o COVID-19 alterou a sua forma de trabalho?](https://dev.to/douglasamarelo/como-o-covid-19-alterou-a-sua-forma-de-trabalho-4foj)
+- [Just a little piece of advice for anyone starting out as a front-end developer.](https://dev.to/douglasamarelo/just-a-little-piece-of-advice-for-anyone-starting-out-as-a-front-end-developer-3dco)
+- [Um conselho para quem está começando como desenvolvedor](https://dev.to/douglasamarelo/um-conselho-pra-quem-ta-comecando-como-desenvolvedor-3n22)
 <!-- BLOG-POST-LIST:END -->
 
 #### Some (random and unorganized) links you can check:
