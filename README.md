@@ -1,17 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
-My name is Douglas and I'm a Front-end developer since 2010.
+My name is Douglas and I'm a Front-end developer.
 
-- :office: &nbsp;&nbsp; I’m currently working on [@Guiabolso](https://github.com/GuiaBolso) as a Front-end Developer.
+- :office: &nbsp;&nbsp; I work for [@Guiabolso](https://github.com/GuiaBolso) as a Front-end Developer.
 - :computer: &nbsp;&nbsp; I’m currently working with HTML, CSS, Javascript, TypeScript, React and Styled Components.
-- :books: &nbsp;&nbsp; I’m currently learning Jest, Testing Library, Next.js, some Front-end stuff in general and a little of Python (just for fun).
+- :books: &nbsp;&nbsp; I’m currently learning Jest, Testing Library, Next.js, some random front-end stuff and a little of Python (just for fun).
 - :mailbox_with_mail: &nbsp;&nbsp; How to reach me: [https://douglasamarelo.com/](https://douglasamarelo.com/)
 - :zap: &nbsp;&nbsp; Fun fact: I would like to speak 5 languages or more, but I'm still learning my native language (Portuguese).
 
-
-
-
 #### Other places you can find me:
+
 <p>
 	<a href="https://www.linkedin.com/in/douglasamarelo/" title="Douglas Amarelo Lopes - LinkedIn" target="_blank">
 		<img alt="Douglas Amarelo Lopes - LinkedIn" src="https://user-images.githubusercontent.com/3269950/87224345-ee420b00-c35a-11ea-89cd-215268e9e4bd.png" height="25" />
@@ -30,7 +28,15 @@ My name is Douglas and I'm a Front-end developer since 2010.
 	</a>
 </p>
 
+### My latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p>&nbsp;</p>
+
 #### Some (random and unorganized) links you can check:
+
 - [Rock Paper Scissorss game](https://game-rockpaperscissorss.netlify.app/)
 - [Snakegame](https://douglasamarelo-snakegame.netlify.app/)
 - [Pokédex](https://douglasamarelo-pokedex.vercel.app/)
@@ -47,8 +53,6 @@ My name is Douglas and I'm a Front-end developer since 2010.
 - [Projeto Udacity - Maps](https://douglas-lopes-udacity-neighborhood-map-react.netlify.app/)
 - [Bitcoin](https://bitcoin-f11yk67j7-douglasamarelo.vercel.app/)
 
-
-
 <!--
 **DouglasAmarelo/DouglasAmarelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,4 +67,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
