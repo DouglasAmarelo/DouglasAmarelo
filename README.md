@@ -32,11 +32,11 @@ My name is Douglas and I'm a Front-end developer.
 	</a>
 </p>
 
-#### This week I spent my time on
+#### This week I spent my time on:
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DouglasAmarelo&hide_title=true&hide_border=true&langs_count=5)
 
-#### My latest blog posts
+#### My latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Pomodoro](https://dev.to/douglasamarelo/pomodoro-4i9i)
