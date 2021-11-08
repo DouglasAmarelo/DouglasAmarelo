@@ -45,7 +45,7 @@ My name is Douglas and I'm a Front-end developer.
 - [Just a little piece of advice for anyone starting out as a front-end developer.](https://dev.to/douglasamarelo/just-a-little-piece-of-advice-for-anyone-starting-out-as-a-front-end-developer-3dco)
 - [Um conselho para quem está começando como desenvolvedor](https://dev.to/douglasamarelo/um-conselho-pra-quem-ta-comecando-como-desenvolvedor-3n22)
 - [7 tips to new Front-end developers](https://dev.to/douglasamarelo/7-tips-to-new-front-end-developers-3em)
-- [Como se destacar no mercado de trabalho mesmo sem nenhum talento. (parte 1)](https://dev.to/douglasamarelo/como-se-destacar-no-mercado-de-trabalho-mesmo-sem-nenhum-talento-parte-1-2f7l)
+- [Como se destacar no mercado de trabalho mesmo sem nenhum talento. &lpar;parte 1&rpar;](https://dev.to/douglasamarelo/como-se-destacar-no-mercado-de-trabalho-mesmo-sem-nenhum-talento-parte-1-2f7l)
 - [7 conselhos para desenvolvedores Front-end iniciantes.](https://dev.to/douglasamarelo/7-conselhos-para-desenvolvedores-front-end-iniciantes-pe0)
 <!-- BLOG-POST-LIST:END -->
 
