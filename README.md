@@ -2,7 +2,7 @@
 
 My name is Douglas and I'm a Front-end developer.
 
-- :office: &nbsp;&nbsp; I'am a Front-end Developer at [@Guiabolso](https://github.com/GuiaBolso).
+- :office: &nbsp;&nbsp; I'am a Front-end Developer at [@Guiabolso](https://github.com/GuiaBolso) and [@PicPay](https://github.com/PicPay).
 - :computer: &nbsp;&nbsp; I’m working mostly with HTML, CSS, Javascript, TypeScript, React and Styled Components.
 - :books: &nbsp;&nbsp; I’m currently learning Jest, Testing Library, Next.js, some random front-end stuff and a little of Python (just for fun).
 - :mailbox_with_mail: &nbsp;&nbsp; How to reach me: [https://douglasamarelo.com/](https://douglasamarelo.com/)
