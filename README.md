@@ -19,6 +19,10 @@ My name is Douglas and I'm a Front-end developer.
 		<img alt="Douglas Amarelo Lopes - Codepen" src="https://user-images.githubusercontent.com/3269950/87224358-f26e2880-c35a-11ea-81c8-975a2cec1a1c.png" height="25" />
 	</a>
 	&nbsp; &nbsp;
+	<a href="https://codesandbox.io/u/DouglasAmarelo" title="Douglas Amarelo Lopes - CodeSandbox" target="_blank">
+		<img alt="Douglas Amarelo Lopes - CodeSandbox" src="https://user-images.githubusercontent.com/3269950/155405354-00738d4f-1d87-4c27-802d-5064378d9ece.png" height="25" />
+	</a>
+	&nbsp; &nbsp;
 	<a href="https://twitter.com/DouglasAmarelo" title="Douglas Amarelo Lopes - Twitter" target="_blank">
 		<img alt="Douglas Amarelo Lopes - Twitter" src="https://user-images.githubusercontent.com/3269950/87224359-fac66380-c35a-11ea-8a66-d088205525f4.png" height="25" />
 	</a>
@@ -32,7 +36,7 @@ My name is Douglas and I'm a Front-end developer.
 	</a>
 	&nbsp; &nbsp;
 	<a href="https://dev.to/douglasamarelo" title="Douglas Amarelo Lopes - Dev.to" target="_blank">
-		<img alt="Douglas Amarelo Lopes - Medium" src="https://user-images.githubusercontent.com/3269950/155404717-f255aada-892e-49fc-9860-771de3c2fcf2.svg" height="25" />
+		<img alt="Douglas Amarelo Lopes - Dev.to" src="https://user-images.githubusercontent.com/3269950/155404717-f255aada-892e-49fc-9860-771de3c2fcf2.svg" height="25" />
 	</a>
 </p>
 
