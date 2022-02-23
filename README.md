@@ -30,6 +30,10 @@ My name is Douglas and I'm a Front-end developer.
 	<a href="https://medium.com/@DouglasAmarelo" title="Douglas Amarelo Lopes - Medium" target="_blank">
 		<img alt="Douglas Amarelo Lopes - Medium" src="https://user-images.githubusercontent.com/3269950/87224334-e8e4c080-c35a-11ea-8ab2-355af0870a72.png" height="25" />
 	</a>
+	&nbsp; &nbsp;
+	<a href="https://dev.to/douglasamarelo" title="Douglas Amarelo Lopes - Dev.to" target="_blank">
+		<img alt="Douglas Amarelo Lopes - Medium" src="https://user-images.githubusercontent.com/3269950/155404717-f255aada-892e-49fc-9860-771de3c2fcf2.svg" height="25" />
+	</a>
 </p>
 
 <!-- #### This week I spent my time on: -->
