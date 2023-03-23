@@ -2,7 +2,7 @@
 
 My name is Douglas and I'm a Front-end developer.
 
-- :office: &nbsp;&nbsp; I'am a Front-end Developer at [@Guiabolso](https://github.com/GuiaBolso) and [@PicPay](https://github.com/PicPay).
+- :office: &nbsp;&nbsp; I'am a Front-end Developer and Tech Manager at [@Guiabolso](https://github.com/GuiaBolso) and [@PicPay](https://github.com/PicPay).
 - :computer: &nbsp;&nbsp; I’m working mostly with HTML, CSS, Javascript, TypeScript, React and Styled Components.
 - :books: &nbsp;&nbsp; I’m currently learning Jest, Testing Library, Next.js, some random front-end stuff and a little of Python (just for fun).
 - :mailbox_with_mail: &nbsp;&nbsp; How to reach me: [https://douglasamarelo.com/](https://douglasamarelo.com/)
@@ -57,7 +57,7 @@ My name is Douglas and I'm a Front-end developer.
 - [7 conselhos para desenvolvedores Front-end iniciantes.](https://dev.to/douglasamarelo/7-conselhos-para-desenvolvedores-front-end-iniciantes-pe0)
 <!-- BLOG-POST-LIST:END -->
 
-#### Some (random and unorganized) links you can check:
+#### Some random "projects" you can check:
 
 - [Rock Paper Scissorss game](https://game-rockpaperscissorss.netlify.app/)
 - [Snakegame](https://douglasamarelo-snakegame.netlify.app/)
